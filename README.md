@@ -1,0 +1,5 @@
+## Run Program
+```
+go run .
+
+```
