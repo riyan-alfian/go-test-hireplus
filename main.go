@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-test-hireplus/soal"
+	"go-test-mnc/soal"
 )
 
 func main() {

@@ -1,3 +1,3 @@
-module go-test-hireplus
+module go-test-mnc
 
 go 1.22.3
